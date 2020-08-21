@@ -1,5 +1,11 @@
+# Ignore Mac .DS_Store
+*.DS_Store
+
+# Ignore python cache file
+*/__pycache__/*
+
 # Ignore information directory
-./information/*
+*/information/*
 
 # Ignore save file
-./save/*
+*/save/*
