@@ -5,7 +5,7 @@
 */__pycache__/
 
 # Ignore information directory
-*/information/
+information/
 
 # Ignore save file
 */save/
