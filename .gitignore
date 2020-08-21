@@ -1,0 +1,5 @@
+# Ignore information directory
+./information/*
+
+# Ignore save file
+./save/*
