@@ -2,10 +2,10 @@
 *.DS_Store
 
 # Ignore python cache file
-*/__pycache__/
+*__pycache__/
 
 # Ignore information directory
 information/
 
 # Ignore save file
-*/save/
+save/
